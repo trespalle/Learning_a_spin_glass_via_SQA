@@ -1,0 +1,17 @@
+100
+200
+1
+260
+2
+0.0015
+0.0001
+30
+0
+50
+50
+0.0005
+1.0
+0.01
+
+# N, C, n_temps, (temp_1, ..., temp_n_temps), n_seeds, gamma_ini, gamma_fin, tau (# of MCS), first_seed, 
+# m (# of Trotter layers), n_wl (# of worldline flips), T_eff, PLH_strength, bond_penalty

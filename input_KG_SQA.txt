@@ -1,0 +1,16 @@
+100
+400
+21
+100 120 140 160 180 200 220 240 260 280 300 320 340 360 380 400 420 440 460 480 500
+100
+1.5
+0.1
+2000
+0
+30
+100
+0.5
+50.0
+
+# N, C, n_temps, (temp_1, ..., temp_n_temps), n_seeds, gamma_ini, gamma_fin, tau (# of MCS), first_seed, 
+# m (# of Trotter layers), n_wl (# of worldline flips), T_eff, PLH_strength
